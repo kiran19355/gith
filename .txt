@@ -1,0 +1,20 @@
+<html>
+<head>
+<title> creating a table</title>
+</head>
+<body>
+<hr><hr>
+<center><h1> <font size="8" color="red" face="mistral"> JAI BALAYYA STUDENTS</font></center></h1>
+<center><table border="2"><tr><td colspan="4" align="center">STUDENT & EMPLOYEE DATA LIST</td></tr>
+<tr><td colspan="2" align="center">STUDENT DATA</td> <td colspan="2" align="center">EMPLOYEE DATA</td> </tr>
+<tr><td align="center">NAME</td> <td align="center">CLASS</td> <td align="center">NAME</td> <td align="center">SALARY</td></tr>
+<tr><td>RAVI</td> <td>IX</td> <td>SRINIVASA RAO</td> <td rowspan="2">20,000</td></tr>
+<tr><td>MOULI</td> <td rowspan="2">VII</td> <td>RAMA RAO</td> </tr>
+<tr><td>KIRAN</td>  <td>MADHAN</td> <td>160</td></tr>
+</table>
+<hr><hr>
+
+
+<iframe src=" https://www.youtube.com/watch?v=6P6yillxZY4" height="300" width="300"></iframe>
+
+</center></body></html>
